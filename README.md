@@ -32,3 +32,5 @@ Esse valor é: admin:123456 codificado em base64. Isso não é criptografia, ape
 
 -  Escopo muito limitado de acesso.
 
+#### Ficar anexado dentro do header com nome Authorization
+<img width="753" height="1056" alt="2025-07-14-23:02:31_753x1056_screenshot" src="https://github.com/user-attachments/assets/2322a618-eb1b-4771-b7f1-6ec486393330" />
